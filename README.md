@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lostinherdreams" alt="lostinherdreams" /></a> </p>
 
-- 🌱 I’m currently learning **Android Studio and machine learning**
+- 🌱 I’m currently learning **Block Chain Development and machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lostinherdreams](https://github.com/lostinherdreams)
 
