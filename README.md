@@ -85,7 +85,7 @@
 
 ### **GitHub Stats**
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lostinherdreams&show_icons=true&locale=en&layout=compact" alt="lostinherdreams" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahya-beheshti&show_icons=true&locale=en&layout=compact" alt="mahya-beheshti" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lostinherdreams&show_icons=true&locale=en" alt="lostinherdreams" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahya-beheshti&show_icons=true&locale=en" alt="mahya-beheshti" /></p>
