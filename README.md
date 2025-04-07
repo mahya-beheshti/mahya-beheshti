@@ -48,7 +48,7 @@ Frontend for a crypto wallet application using React.
 
 ## 🤝 Let’s Connect!
 
-- 🌐 [Portfolio (coming soon)](https://mahya.dev)
+- 🌐 [Portfolio (coming soon)]
 - 👨‍💻 Check out my projects at GitHub.
 - 💼 LinkedIn: [Mahya Beheshti](https://www.linkedin.com/in/mahyabeheshti)
 - 📫 Email: beheshtimahya11@gmail.com
