@@ -1,91 +1,65 @@
-<h1 align="center">Hi 👋, I'm Mahya</h1>
-<h3 align="center">A Passionate Developer Exploring Blockchain and Machine Learning</h3>
+# 👋 Hi, I'm Mahya Beheshti!
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahya-beheshti" alt="lostinherdreams" />
-  </a> 
-</p>
+🎓 Computer Engineering Student  
+🌱 Currently exploring the intersection of Web Development and Machine Learning
 
 ---
 
-### **About Me**
-- 🌱 I am a highly motivated Computer Engineering student at **Amirkabir University of technology**
-- 👨‍💻 Check out my projects at [GitHub](https://github.com/mahya-beheshti).
-- 📫 Reach me at **beheshtimahya11@gmail.com**.
-- 📄 Learn more about my experiences on [Quera](https://quera.org/profile/8kx9p7).
+## 🛠️ Technologies & Interests
+
+- **Languages:** Python, Java, JavaScript, Solidity, Rust, C++, C
+- **Frameworks:** Django, React, Jupyter, Hardhat
+- **Domains of Interest:**
+  - 🌐 Web Development (Full-stack)
+  - 💡 Deep Learning & Machine Learning
+  - 🕹️ Game Development
+  - 🔐 Web3, Blockchain, and Decentralized Apps
 
 ---
 
-### **Connect with Me**
-<p align="left">
-  <a href="http://www.linkedin.com/in/mahyabeheshti" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+## 📌 Featured Projects
+
+### 🛒 [Django-store](https://github.com/mahya-beheshti/Django-store)  
+E-commerce web app built with Django, featuring product listings, category browsing, and order management.
+
+### 🔦 [Farsi-Search-Engine](https://github.com/mahya-beheshti/Farsi-Search-Engine)  
+Search engine tailored for the Farsi language with tokenization, normalization, stopword removal, and stemming (using Hazm).
+
+### 🧠 [mytorch](https://github.com/mahya-beheshti/mytorch)  
+Pure Python deep learning library implementing the fundamentals of neural networks—backpropagation, optimizers, and more.
+
+### 🗳️ [Voting-Dapp](https://github.com/mahya-beheshti/Voting-Dapp)  
+Decentralized voting application built with **Solidity** & **React**. Vote like it's 2024!
+
+### 🦀 [rust-lab](https://github.com/mahya-beheshti/rust-lab)  
+Dive into Rust through hands-on projects and simple, guided examples.
+
+### 📱 [Wallet_Front_React](https://github.com/mahya-beheshti/Wallet_Front_React)  
+Frontend for a crypto wallet application using React.
 
 ---
 
-### **Languages and Tools**
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-  </a>
-</p>
+## 📚 Learning In Progress
 
+- Building real-time apps with Django
+- Developing AI-powered games with Python
+- Deep diving into Reinforcement Learning & Deep Learning
 ---
 
+## 🤝 Let’s Connect!
+
+- 🌐 [Portfolio (coming soon)](https://mahya.dev)
+- 👨‍💻 Check out my projects at GitHub.
+- 💼 LinkedIn: [Mahya Beheshti](https://www.linkedin.com/in/mahyabeheshti)
+- 📫 Email: beheshtimahya11@gmail.com
+
+---
 ### **GitHub Stats**
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahya-beheshti&show_icons=true&locale=en&layout=compact" alt="mahya-beheshti" />
 </p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahya-beheshti&show_icons=true&locale=en" alt="mahya-beheshti" /></p>
+
+⭐️ *Feel free to check out my repositories, star the ones you like, or reach out for collaboration!*
