@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahya Beheshti!
 
 🎓 Computer Engineering Student  
-🌱 Currently exploring the intersection of Web Development and Machine Learning
+🌱 Currently exploring Web Development and Machine Learning
 
 ---
 
